@@ -1,5 +1,5 @@
 # Real Time Land Mine Detection via UAV
-TL;DR: Python application for read time object detection on video feed.
+Python application for read time object detection on video feed.
 
 ## Usage
 
