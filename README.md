@@ -1,5 +1,5 @@
-## Land mine detection in UAV video
-Python application for read time object detection on video feed.
+## Land Mine Detection
+Python application for read time detection on video feed recorded by UAV
 
 ## Usage
 
